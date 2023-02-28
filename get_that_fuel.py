@@ -110,8 +110,3 @@ while running:
     
     # Update screen after every frame
     pygame.display.update()
-
-
-
-
-
